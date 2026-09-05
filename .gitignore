@@ -2,6 +2,12 @@ __pycache__/
 *.pyc
 .DS_Store
 
-# Entregables generados (se regeneran con los scripts de docs/)
-*.docx
+# Corpus de entrada: se descarga de la plataforma, no se versiona
+Files/
+
+# Salida masiva de la actividad 2: 505 .txt (8.4 MB). Se regenera al correr el programa.
+actividad2/salida/
+
+# Entregables generados localmente
 *.zip
+actividad1/Reporte_A1_*.docx
