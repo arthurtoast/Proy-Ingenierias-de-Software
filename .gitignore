@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Entregables generados (se regeneran con los scripts de docs/)
+*.docx
+*.zip
